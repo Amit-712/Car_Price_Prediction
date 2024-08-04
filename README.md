@@ -8,7 +8,7 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10.
 ![predict](https://github.com/user-attachments/assets/cee52212-ce98-4a0f-b789-0bb52afaa908)
 
-# HOW TO USE?
+# How to use?
 1. Clone the repository
 2. Install the required packages in "requirements.txt" file.
 Some packages are:
