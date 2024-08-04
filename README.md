@@ -24,6 +24,6 @@ Some packages are:
 
 3. Then a Linear Regression model which had 0.89 R2_score.
 
-Link for notebook: https://github.com/rajtilakls2510/car_price_predictor/blob/master/Quikr%20Analysis.ipynb
+Link for notebook: https://github.com/Amit-712/Car_Price_Prediction/blob/main/Car_Price_Prediction.ipynb
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
