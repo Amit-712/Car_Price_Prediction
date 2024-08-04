@@ -1,1 +1,2 @@
-In this project,we are predicting the price of a car on the basis of some parameters.
+# AIM
+This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
